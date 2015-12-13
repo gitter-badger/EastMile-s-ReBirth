@@ -1,0 +1,10 @@
+c:\users\elias\documents\visual studio 2015\Projects\EastMile's ReBirth\EastMile's ReBirth\obj\Debug\EastMile_s_ReBirth.Properties.Resources.resources
+c:\users\elias\documents\visual studio 2015\Projects\EastMile's ReBirth\EastMile's ReBirth\obj\Debug\EastMile's ReBirth.csproj.GenerateResource.Cache
+c:\users\elias\documents\visual studio 2015\Projects\EastMile's ReBirth\EastMile's ReBirth\bin\Debug\EastMile s ReBirth.exe.config
+c:\users\elias\documents\visual studio 2015\Projects\EastMile's ReBirth\EastMile's ReBirth\bin\Debug\EastMile s ReBirth.exe
+c:\users\elias\documents\visual studio 2015\Projects\EastMile's ReBirth\EastMile's ReBirth\bin\Debug\EastMile s ReBirth.pdb
+c:\users\elias\documents\visual studio 2015\Projects\EastMile's ReBirth\EastMile's ReBirth\obj\Debug\EastMile s ReBirth.exe
+c:\users\elias\documents\visual studio 2015\Projects\EastMile's ReBirth\EastMile's ReBirth\obj\Debug\EastMile s ReBirth.pdb
+c:\users\elias\documents\visual studio 2015\Projects\EastMile's ReBirth\EastMile's ReBirth\obj\Debug\EastMile_s_ReBirth.Main.resources
+c:\users\elias\documents\visual studio 2015\Projects\EastMile's ReBirth\EastMile's ReBirth\bin\Debug\RubySock.dll
+c:\users\elias\documents\visual studio 2015\Projects\EastMile's ReBirth\EastMile's ReBirth\obj\Debug\EastMile's ReBirth.csprojResolveAssemblyReference.cache
